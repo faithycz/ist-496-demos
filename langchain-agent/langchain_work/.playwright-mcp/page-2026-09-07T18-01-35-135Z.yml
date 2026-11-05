@@ -1,0 +1,988 @@
+- table [ref=e3]:
+  - rowgroup [ref=e4]:
+    - row [ref=e5]:
+      - cell [ref=e6]:
+        - table [ref=e7]:
+          - rowgroup [ref=e8]:
+            - row [ref=e9]:
+              - cell [ref=e10]:
+                - link [ref=e11] [cursor=pointer]:
+                  - /url: https://news.ycombinator.com
+              - cell [ref=e13]:
+                - generic [ref=e14]:
+                  - link "Hacker News" [ref=e16] [cursor=pointer]:
+                    - /url: news
+                  - link "new" [ref=e17] [cursor=pointer]:
+                    - /url: newest
+                  - text: "|"
+                  - link "past" [ref=e18] [cursor=pointer]:
+                    - /url: front
+                  - text: "|"
+                  - link "comments" [ref=e19] [cursor=pointer]:
+                    - /url: newcomments
+                  - text: "|"
+                  - link "ask" [ref=e20] [cursor=pointer]:
+                    - /url: ask
+                  - text: "|"
+                  - link "show" [ref=e21] [cursor=pointer]:
+                    - /url: show
+                  - text: "|"
+                  - link "jobs" [ref=e22] [cursor=pointer]:
+                    - /url: jobs
+                  - text: "|"
+                  - link "submit" [ref=e23] [cursor=pointer]:
+                    - /url: submit
+              - cell [ref=e24]:
+                - link "login" [ref=e26] [cursor=pointer]:
+                  - /url: login?goto=news
+    - row [ref=e27]
+    - row [ref=e28]:
+      - cell [ref=e29]:
+        - table [ref=e30]:
+          - rowgroup [ref=e31]:
+            - row [ref=e32]:
+              - cell "1." [ref=e33]
+              - cell [ref=e34]:
+                - link "upvote" [ref=e36] [cursor=pointer]:
+                  - /url: vote?id=49598291&how=up&goto=news
+              - cell [ref=e38]:
+                - generic [ref=e39]:
+                  - link "bzip3" [ref=e40] [cursor=pointer]:
+                    - /url: https://github.com/iczelia/bzip3
+                  - generic [ref=e41]:
+                    - text: (
+                    - link "github.com/iczelia" [ref=e42] [cursor=pointer]:
+                      - /url: from?site=github.com/iczelia
+                    - text: )
+            - row [ref=e43]:
+              - cell [ref=e44]
+              - cell [ref=e45]:
+                - generic [ref=e46]:
+                  - text: 219 points by
+                  - link "tosh" [ref=e47] [cursor=pointer]:
+                    - /url: user?id=tosh
+                  - generic "2026-09-07T13:35:13.000000Z" [ref=e48]:
+                    - link "4 hours ago" [ref=e49] [cursor=pointer]:
+                      - /url: item?id=49598291
+                  - text: "|"
+                  - link "hide" [ref=e50] [cursor=pointer]:
+                    - /url: hide?id=49598291&goto=news
+                  - text: "|"
+                  - link "66 comments" [ref=e51] [cursor=pointer]:
+                    - /url: item?id=49598291
+            - row [ref=e52]
+            - row [ref=e53]:
+              - cell "2." [ref=e54]
+              - cell [ref=e55]:
+                - link "upvote" [ref=e57] [cursor=pointer]:
+                  - /url: vote?id=49593563&how=up&goto=news
+              - cell [ref=e59]:
+                - generic [ref=e60]:
+                  - link "Keep Our Servers Running" [ref=e61] [cursor=pointer]:
+                    - /url: https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/
+                  - generic [ref=e62]:
+                    - text: (
+                    - link "blog.archive.org" [ref=e63] [cursor=pointer]:
+                      - /url: from?site=blog.archive.org
+                    - text: )
+            - row [ref=e64]:
+              - cell [ref=e65]
+              - cell [ref=e66]:
+                - generic [ref=e67]:
+                  - text: 815 points by
+                  - link "sonicrocketman" [ref=e68] [cursor=pointer]:
+                    - /url: user?id=sonicrocketman
+                  - generic "2026-09-07T03:29:51.000000Z" [ref=e69]:
+                    - link "14 hours ago" [ref=e70] [cursor=pointer]:
+                      - /url: item?id=49593563
+                  - text: "|"
+                  - link "hide" [ref=e71] [cursor=pointer]:
+                    - /url: hide?id=49593563&goto=news
+                  - text: "|"
+                  - link "204 comments" [ref=e72] [cursor=pointer]:
+                    - /url: item?id=49593563
+            - row [ref=e73]
+            - row [ref=e74]:
+              - cell "3." [ref=e75]
+              - cell [ref=e76]:
+                - link "upvote" [ref=e78] [cursor=pointer]:
+                  - /url: vote?id=49600233&how=up&goto=news
+              - cell [ref=e80]:
+                - 'link "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users" [ref=e82] [cursor=pointer]':
+                  - /url: item?id=49600233
+            - row [ref=e83]:
+              - cell [ref=e84]
+              - cell [ref=e85]:
+                - generic [ref=e86]:
+                  - text: 55 points by
+                  - link "spwa4" [ref=e87] [cursor=pointer]:
+                    - /url: user?id=spwa4
+                  - generic "2026-09-07T16:40:32.000000Z" [ref=e88]:
+                    - link "1 hour ago" [ref=e89] [cursor=pointer]:
+                      - /url: item?id=49600233
+                  - text: "|"
+                  - link "hide" [ref=e90] [cursor=pointer]:
+                    - /url: hide?id=49600233&goto=news
+                  - text: "|"
+                  - link "39 comments" [ref=e91] [cursor=pointer]:
+                    - /url: item?id=49600233
+            - row [ref=e92]
+            - row [ref=e93]:
+              - cell "4." [ref=e94]
+              - cell [ref=e95]:
+                - link "upvote" [ref=e97] [cursor=pointer]:
+                  - /url: vote?id=49558685&how=up&goto=news
+              - cell [ref=e99]:
+                - generic [ref=e100]:
+                  - link "Simple Is Not Small" [ref=e101] [cursor=pointer]:
+                    - /url: https://jyn.dev/simple-is-not-the-same-as-small/
+                  - generic [ref=e102]:
+                    - text: (
+                    - link "jyn.dev" [ref=e103] [cursor=pointer]:
+                      - /url: from?site=jyn.dev
+                    - text: )
+            - row [ref=e104]:
+              - cell [ref=e105]
+              - cell [ref=e106]:
+                - generic [ref=e107]:
+                  - text: 87 points by
+                  - link "zdw" [ref=e108] [cursor=pointer]:
+                    - /url: user?id=zdw
+                  - generic "2026-09-03T23:47:28.000000Z" [ref=e109]:
+                    - link "4 hours ago" [ref=e110] [cursor=pointer]:
+                      - /url: item?id=49558685
+                  - text: "|"
+                  - link "hide" [ref=e111] [cursor=pointer]:
+                    - /url: hide?id=49558685&goto=news
+                  - text: "|"
+                  - link "25 comments" [ref=e112] [cursor=pointer]:
+                    - /url: item?id=49558685
+            - row [ref=e113]
+            - row [ref=e114]:
+              - cell "5." [ref=e115]
+              - cell [ref=e116]:
+                - link "upvote" [ref=e118] [cursor=pointer]:
+                  - /url: vote?id=49596055&how=up&goto=news
+              - cell [ref=e120]:
+                - generic [ref=e121]:
+                  - link "Caltech Mathathon – first hackathon ever devoted to research level mathematics" [ref=e122] [cursor=pointer]:
+                    - /url: https://mathathonchallenge.com/index.html
+                  - generic [ref=e123]:
+                    - text: (
+                    - link "mathathonchallenge.com" [ref=e124] [cursor=pointer]:
+                      - /url: from?site=mathathonchallenge.com
+                    - text: )
+            - row [ref=e125]:
+              - cell [ref=e126]
+              - cell [ref=e127]:
+                - generic [ref=e128]:
+                  - text: 155 points by
+                  - link "astroanax" [ref=e129] [cursor=pointer]:
+                    - /url: user?id=astroanax
+                  - generic "2026-09-07T09:26:53.000000Z" [ref=e130]:
+                    - link "8 hours ago" [ref=e131] [cursor=pointer]:
+                      - /url: item?id=49596055
+                  - text: "|"
+                  - link "hide" [ref=e132] [cursor=pointer]:
+                    - /url: hide?id=49596055&goto=news
+                  - text: "|"
+                  - link "38 comments" [ref=e133] [cursor=pointer]:
+                    - /url: item?id=49596055
+            - row [ref=e134]
+            - row [ref=e135]:
+              - cell "6." [ref=e136]
+              - cell [ref=e137]:
+                - link "upvote" [ref=e139] [cursor=pointer]:
+                  - /url: vote?id=49600432&how=up&goto=news
+              - cell [ref=e141]:
+                - generic [ref=e142]:
+                  - link "PostgreSQL 19 Interactive Tour" [ref=e143] [cursor=pointer]:
+                    - /url: https://victoriametrics.com/blog/postgres-19/index.html
+                  - generic [ref=e144]:
+                    - text: (
+                    - link "victoriametrics.com" [ref=e145] [cursor=pointer]:
+                      - /url: from?site=victoriametrics.com
+                    - text: )
+            - row [ref=e146]:
+              - cell [ref=e147]
+              - cell [ref=e148]:
+                - generic [ref=e149]:
+                  - text: 7 points by
+                  - link "valyala" [ref=e150] [cursor=pointer]:
+                    - /url: user?id=valyala
+                  - generic "2026-09-07T16:58:35.000000Z" [ref=e151]:
+                    - link "1 hour ago" [ref=e152] [cursor=pointer]:
+                      - /url: item?id=49600432
+                  - text: "|"
+                  - link "hide" [ref=e153] [cursor=pointer]:
+                    - /url: hide?id=49600432&goto=news
+                  - text: "|"
+                  - link "discuss" [ref=e154] [cursor=pointer]:
+                    - /url: item?id=49600432
+            - row [ref=e155]
+            - row [ref=e156]:
+              - cell "7." [ref=e157]
+              - cell [ref=e158]:
+                - link "upvote" [ref=e160] [cursor=pointer]:
+                  - /url: vote?id=49561002&how=up&goto=news
+              - cell [ref=e162]:
+                - generic [ref=e163]:
+                  - link "Decoding the NEC V20 Microcode" [ref=e164] [cursor=pointer]:
+                    - /url: https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html
+                  - generic [ref=e165]:
+                    - text: (
+                    - link "martypc.blogspot.com" [ref=e166] [cursor=pointer]:
+                      - /url: from?site=martypc.blogspot.com
+                    - text: )
+            - row [ref=e167]:
+              - cell [ref=e168]
+              - cell [ref=e169]:
+                - generic [ref=e170]:
+                  - text: 32 points by
+                  - link "mariuz" [ref=e171] [cursor=pointer]:
+                    - /url: user?id=mariuz
+                  - generic "2026-09-04T05:53:38.000000Z" [ref=e172]:
+                    - link "3 hours ago" [ref=e173] [cursor=pointer]:
+                      - /url: item?id=49561002
+                  - text: "|"
+                  - link "hide" [ref=e174] [cursor=pointer]:
+                    - /url: hide?id=49561002&goto=news
+                  - text: "|"
+                  - link "discuss" [ref=e175] [cursor=pointer]:
+                    - /url: item?id=49561002
+            - row [ref=e176]
+            - row [ref=e177]:
+              - cell "8." [ref=e178]
+              - cell [ref=e179]:
+                - link "upvote" [ref=e181] [cursor=pointer]:
+                  - /url: vote?id=49599609&how=up&goto=news
+              - cell [ref=e183]:
+                - generic [ref=e184]:
+                  - link "C Is Not a Low-Level Language (2018)" [ref=e185] [cursor=pointer]:
+                    - /url: https://queue.acm.org/doi/10.1145/3212477.3212479
+                  - generic [ref=e186]:
+                    - text: (
+                    - link "acm.org" [ref=e187] [cursor=pointer]:
+                      - /url: from?site=acm.org
+                    - text: )
+            - row [ref=e188]:
+              - cell [ref=e189]
+              - cell [ref=e190]:
+                - generic [ref=e191]:
+                  - text: 13 points by
+                  - link "tosh" [ref=e192] [cursor=pointer]:
+                    - /url: user?id=tosh
+                  - generic "2026-09-07T15:39:20.000000Z" [ref=e193]:
+                    - link "2 hours ago" [ref=e194] [cursor=pointer]:
+                      - /url: item?id=49599609
+                  - text: "|"
+                  - link "hide" [ref=e195] [cursor=pointer]:
+                    - /url: hide?id=49599609&goto=news
+                  - text: "|"
+                  - link "1 comment" [ref=e196] [cursor=pointer]:
+                    - /url: item?id=49599609
+            - row [ref=e197]
+            - row [ref=e198]:
+              - cell "9." [ref=e199]
+              - cell [ref=e200]:
+                - link "upvote" [ref=e202] [cursor=pointer]:
+                  - /url: vote?id=49595865&how=up&goto=news
+              - cell [ref=e204]:
+                - generic [ref=e205]:
+                  - link "Live map of public transport in Belgium" [ref=e206] [cursor=pointer]:
+                    - /url: https://openbaarvervoerbelgie.be/
+                  - generic [ref=e207]:
+                    - text: (
+                    - link "openbaarvervoerbelgie.be" [ref=e208] [cursor=pointer]:
+                      - /url: from?site=openbaarvervoerbelgie.be
+                    - text: )
+            - row [ref=e209]:
+              - cell [ref=e210]
+              - cell [ref=e211]:
+                - generic [ref=e212]:
+                  - text: 150 points by
+                  - link "coinfused" [ref=e213] [cursor=pointer]:
+                    - /url: user?id=coinfused
+                  - generic "2026-09-07T09:02:47.000000Z" [ref=e214]:
+                    - link "8 hours ago" [ref=e215] [cursor=pointer]:
+                      - /url: item?id=49595865
+                  - text: "|"
+                  - link "hide" [ref=e216] [cursor=pointer]:
+                    - /url: hide?id=49595865&goto=news
+                  - text: "|"
+                  - link "62 comments" [ref=e217] [cursor=pointer]:
+                    - /url: item?id=49595865
+            - row [ref=e218]
+            - row [ref=e219]:
+              - cell "10." [ref=e220]
+              - cell [ref=e221]:
+                - link "upvote" [ref=e223] [cursor=pointer]:
+                  - /url: vote?id=49594878&how=up&goto=news
+              - cell [ref=e225]:
+                - generic [ref=e226]:
+                  - link "LG smart TVs caught logging audio with screen off and snooping on local devices" [ref=e227] [cursor=pointer]:
+                    - /url: https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html
+                  - generic [ref=e228]:
+                    - text: (
+                    - link "notebookcheck.net" [ref=e229] [cursor=pointer]:
+                      - /url: from?site=notebookcheck.net
+                    - text: )
+            - row [ref=e230]:
+              - cell [ref=e231]
+              - cell [ref=e232]:
+                - generic [ref=e233]:
+                  - text: 973 points by
+                  - link "chris_overseas" [ref=e234] [cursor=pointer]:
+                    - /url: user?id=chris_overseas
+                  - generic "2026-09-07T07:03:20.000000Z" [ref=e235]:
+                    - link "10 hours ago" [ref=e236] [cursor=pointer]:
+                      - /url: item?id=49594878
+                  - text: "|"
+                  - link "hide" [ref=e237] [cursor=pointer]:
+                    - /url: hide?id=49594878&goto=news
+                  - text: "|"
+                  - link "455 comments" [ref=e238] [cursor=pointer]:
+                    - /url: item?id=49594878
+            - row [ref=e239]
+            - row [ref=e240]:
+              - cell "11." [ref=e241]
+              - cell [ref=e242]:
+                - link "upvote" [ref=e244] [cursor=pointer]:
+                  - /url: vote?id=49597907&how=up&goto=news
+              - cell [ref=e246]:
+                - generic [ref=e247]:
+                  - link "De-Brainrot Vacations" [ref=e248] [cursor=pointer]:
+                    - /url: https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/
+                  - generic [ref=e249]:
+                    - text: (
+                    - link "devz.cl" [ref=e250] [cursor=pointer]:
+                      - /url: from?site=devz.cl
+                    - text: )
+            - row [ref=e251]:
+              - cell [ref=e252]
+              - cell [ref=e253]:
+                - generic [ref=e254]:
+                  - text: 407 points by
+                  - link "DanielVZ" [ref=e255] [cursor=pointer]:
+                    - /url: user?id=DanielVZ
+                  - generic "2026-09-07T13:00:48.000000Z" [ref=e256]:
+                    - link "5 hours ago" [ref=e257] [cursor=pointer]:
+                      - /url: item?id=49597907
+                  - text: "|"
+                  - link "hide" [ref=e258] [cursor=pointer]:
+                    - /url: hide?id=49597907&goto=news
+                  - text: "|"
+                  - link "167 comments" [ref=e259] [cursor=pointer]:
+                    - /url: item?id=49597907
+            - row [ref=e260]
+            - row [ref=e261]:
+              - cell "12." [ref=e262]
+              - cell [ref=e263]:
+                - link "upvote" [ref=e265] [cursor=pointer]:
+                  - /url: vote?id=49589190&how=up&goto=news
+              - cell [ref=e267]:
+                - generic [ref=e268]:
+                  - link "The Dataflow Model Revisited" [ref=e269] [cursor=pointer]:
+                    - /url: https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited
+                  - generic [ref=e270]:
+                    - text: (
+                    - link "vldb.org" [ref=e271] [cursor=pointer]:
+                      - /url: from?site=vldb.org
+                    - text: )
+            - row [ref=e272]:
+              - cell [ref=e273]
+              - cell [ref=e274]:
+                - generic [ref=e275]:
+                  - text: 25 points by
+                  - link "scott_s" [ref=e276] [cursor=pointer]:
+                    - /url: user?id=scott_s
+                  - generic "2026-09-06T18:10:53.000000Z" [ref=e277]:
+                    - link "2 hours ago" [ref=e278] [cursor=pointer]:
+                      - /url: item?id=49589190
+                  - text: "|"
+                  - link "hide" [ref=e279] [cursor=pointer]:
+                    - /url: hide?id=49589190&goto=news
+                  - text: "|"
+                  - link "6 comments" [ref=e280] [cursor=pointer]:
+                    - /url: item?id=49589190
+            - row [ref=e281]
+            - row [ref=e282]:
+              - cell "13." [ref=e283]
+              - cell [ref=e284]:
+                - link "upvote" [ref=e286] [cursor=pointer]:
+                  - /url: vote?id=49596054&how=up&goto=news
+              - cell [ref=e288]:
+                - generic [ref=e289]:
+                  - link "Speculative Decoding in vLLM on AMD GPUs" [ref=e290] [cursor=pointer]:
+                    - /url: https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus
+                  - generic [ref=e291]:
+                    - text: (
+                    - link "vllm.ai" [ref=e292] [cursor=pointer]:
+                      - /url: from?site=vllm.ai
+                    - text: )
+            - row [ref=e293]:
+              - cell [ref=e294]
+              - cell [ref=e295]:
+                - generic [ref=e296]:
+                  - text: 102 points by
+                  - link "ankitg12" [ref=e297] [cursor=pointer]:
+                    - /url: user?id=ankitg12
+                  - generic "2026-09-07T09:26:41.000000Z" [ref=e298]:
+                    - link "8 hours ago" [ref=e299] [cursor=pointer]:
+                      - /url: item?id=49596054
+                  - text: "|"
+                  - link "hide" [ref=e300] [cursor=pointer]:
+                    - /url: hide?id=49596054&goto=news
+                  - text: "|"
+                  - link "36 comments" [ref=e301] [cursor=pointer]:
+                    - /url: item?id=49596054
+            - row [ref=e302]
+            - row [ref=e303]:
+              - cell "14." [ref=e304]
+              - cell [ref=e305]:
+                - link "upvote" [ref=e307] [cursor=pointer]:
+                  - /url: vote?id=49599719&how=up&goto=news
+              - cell [ref=e309]:
+                - generic [ref=e310]:
+                  - link "Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set" [ref=e311] [cursor=pointer]:
+                    - /url: https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set
+                  - generic [ref=e312]:
+                    - text: (
+                    - link "thurrott.com" [ref=e313] [cursor=pointer]:
+                      - /url: from?site=thurrott.com
+                    - text: )
+            - row [ref=e314]:
+              - cell [ref=e315]
+              - cell [ref=e316]:
+                - generic [ref=e317]:
+                  - text: 68 points by
+                  - link "neogodless" [ref=e318] [cursor=pointer]:
+                    - /url: user?id=neogodless
+                  - generic "2026-09-07T15:50:37.000000Z" [ref=e319]:
+                    - link "2 hours ago" [ref=e320] [cursor=pointer]:
+                      - /url: item?id=49599719
+                  - text: "|"
+                  - link "hide" [ref=e321] [cursor=pointer]:
+                    - /url: hide?id=49599719&goto=news
+                  - text: "|"
+                  - link "34 comments" [ref=e322] [cursor=pointer]:
+                    - /url: item?id=49599719
+            - row [ref=e323]
+            - row [ref=e324]:
+              - cell "15." [ref=e325]
+              - cell [ref=e326]:
+                - link "upvote" [ref=e328] [cursor=pointer]:
+                  - /url: vote?id=49597189&how=up&goto=news
+              - cell [ref=e330]:
+                - generic [ref=e331]:
+                  - link "Smartphone makers don't bother to comply with EU repairability requirements" [ref=e332] [cursor=pointer]:
+                    - /url: https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532
+                  - generic [ref=e333]:
+                    - text: (
+                    - link "theregister.com" [ref=e334] [cursor=pointer]:
+                      - /url: from?site=theregister.com
+                    - text: )
+            - row [ref=e335]:
+              - cell [ref=e336]
+              - cell [ref=e337]:
+                - generic [ref=e338]:
+                  - text: 214 points by
+                  - link "mdp2021" [ref=e339] [cursor=pointer]:
+                    - /url: user?id=mdp2021
+                  - generic "2026-09-07T11:46:37.000000Z" [ref=e340]:
+                    - link "6 hours ago" [ref=e341] [cursor=pointer]:
+                      - /url: item?id=49597189
+                  - text: "|"
+                  - link "hide" [ref=e342] [cursor=pointer]:
+                    - /url: hide?id=49597189&goto=news
+                  - text: "|"
+                  - link "120 comments" [ref=e343] [cursor=pointer]:
+                    - /url: item?id=49597189
+            - row [ref=e344]
+            - row [ref=e345]:
+              - cell "16." [ref=e346]
+              - cell [ref=e347]:
+                - link "upvote" [ref=e349] [cursor=pointer]:
+                  - /url: vote?id=49562440&how=up&goto=news
+              - cell [ref=e351]:
+                - generic [ref=e352]:
+                  - link "Whistle Synth" [ref=e353] [cursor=pointer]:
+                    - /url: https://www.jefftk.com/p/whistle-synth-mac-app
+                  - generic [ref=e354]:
+                    - text: (
+                    - link "jefftk.com" [ref=e355] [cursor=pointer]:
+                      - /url: from?site=jefftk.com
+                    - text: )
+            - row [ref=e356]:
+              - cell [ref=e357]
+              - cell [ref=e358]:
+                - generic [ref=e359]:
+                  - text: 22 points by
+                  - link "luu" [ref=e360] [cursor=pointer]:
+                    - /url: user?id=luu
+                  - generic "2026-09-04T09:44:45.000000Z" [ref=e361]:
+                    - link "4 hours ago" [ref=e362] [cursor=pointer]:
+                      - /url: item?id=49562440
+                  - text: "|"
+                  - link "hide" [ref=e363] [cursor=pointer]:
+                    - /url: hide?id=49562440&goto=news
+                  - text: "|"
+                  - link "6 comments" [ref=e364] [cursor=pointer]:
+                    - /url: item?id=49562440
+            - row [ref=e365]
+            - row [ref=e366]:
+              - cell "17." [ref=e367]
+              - cell [ref=e368]:
+                - link "upvote" [ref=e370] [cursor=pointer]:
+                  - /url: vote?id=49597895&how=up&goto=news
+              - cell [ref=e372]:
+                - generic [ref=e373]:
+                  - link "Splash-free urinals (2025)" [ref=e374] [cursor=pointer]:
+                    - /url: https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false
+                  - generic [ref=e375]:
+                    - text: (
+                    - link "oup.com" [ref=e376] [cursor=pointer]:
+                      - /url: from?site=oup.com
+                    - text: )
+            - row [ref=e377]:
+              - cell [ref=e378]
+              - cell [ref=e379]:
+                - generic [ref=e380]:
+                  - text: 180 points by
+                  - link "u1hcw9nx" [ref=e381] [cursor=pointer]:
+                    - /url: user?id=u1hcw9nx
+                  - generic "2026-09-07T12:58:57.000000Z" [ref=e382]:
+                    - link "5 hours ago" [ref=e383] [cursor=pointer]:
+                      - /url: item?id=49597895
+                  - text: "|"
+                  - link "hide" [ref=e384] [cursor=pointer]:
+                    - /url: hide?id=49597895&goto=news
+                  - text: "|"
+                  - link "98 comments" [ref=e385] [cursor=pointer]:
+                    - /url: item?id=49597895
+            - row [ref=e386]
+            - row [ref=e387]:
+              - cell "18." [ref=e388]
+              - cell [ref=e389]:
+                - link "upvote" [ref=e391] [cursor=pointer]:
+                  - /url: vote?id=49596274&how=up&goto=news
+              - cell [ref=e393]:
+                - generic [ref=e394]:
+                  - link "Impedance Matching (2017)" [ref=e395] [cursor=pointer]:
+                    - /url: https://www.edge.org/response-detail/27238
+                  - generic [ref=e396]:
+                    - text: (
+                    - link "edge.org" [ref=e397] [cursor=pointer]:
+                      - /url: from?site=edge.org
+                    - text: )
+            - row [ref=e398]:
+              - cell [ref=e399]
+              - cell [ref=e400]:
+                - generic [ref=e401]:
+                  - text: 63 points by
+                  - link "muti" [ref=e402] [cursor=pointer]:
+                    - /url: user?id=muti
+                  - generic "2026-09-07T09:52:26.000000Z" [ref=e403]:
+                    - link "8 hours ago" [ref=e404] [cursor=pointer]:
+                      - /url: item?id=49596274
+                  - text: "|"
+                  - link "hide" [ref=e405] [cursor=pointer]:
+                    - /url: hide?id=49596274&goto=news
+                  - text: "|"
+                  - link "20 comments" [ref=e406] [cursor=pointer]:
+                    - /url: item?id=49596274
+            - row [ref=e407]
+            - row [ref=e408]:
+              - cell "19." [ref=e409]
+              - cell [ref=e410]:
+                - link "upvote" [ref=e412] [cursor=pointer]:
+                  - /url: vote?id=49599481&how=up&goto=news
+              - cell [ref=e414]:
+                - generic [ref=e415]:
+                  - link "Bill Gates tries to install MovieMaker" [ref=e416] [cursor=pointer]:
+                    - /url: https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker
+                  - generic [ref=e417]:
+                    - text: (
+                    - link "techemails.com" [ref=e418] [cursor=pointer]:
+                      - /url: from?site=techemails.com
+                    - text: )
+            - row [ref=e419]:
+              - cell [ref=e420]
+              - cell [ref=e421]:
+                - generic [ref=e422]:
+                  - text: 119 points by
+                  - link "highfrequency" [ref=e423] [cursor=pointer]:
+                    - /url: user?id=highfrequency
+                  - generic "2026-09-07T15:27:03.000000Z" [ref=e424]:
+                    - link "2 hours ago" [ref=e425] [cursor=pointer]:
+                      - /url: item?id=49599481
+                  - text: "|"
+                  - link "hide" [ref=e426] [cursor=pointer]:
+                    - /url: hide?id=49599481&goto=news
+                  - text: "|"
+                  - link "87 comments" [ref=e427] [cursor=pointer]:
+                    - /url: item?id=49599481
+            - row [ref=e428]
+            - row [ref=e429]:
+              - cell "20." [ref=e430]
+              - cell [ref=e431]:
+                - link "upvote" [ref=e433] [cursor=pointer]:
+                  - /url: vote?id=49577129&how=up&goto=news
+              - cell [ref=e435]:
+                - 'link "Ask HN: Fable hacked my piano, can I release the results?" [ref=e437] [cursor=pointer]':
+                  - /url: item?id=49577129
+            - row [ref=e438]:
+              - cell [ref=e439]
+              - cell [ref=e440]:
+                - generic [ref=e441]:
+                  - text: 250 points by
+                  - link "jmpman" [ref=e442] [cursor=pointer]:
+                    - /url: user?id=jmpman
+                  - generic "2026-09-05T14:54:44.000000Z" [ref=e443]:
+                    - link "17 hours ago" [ref=e444] [cursor=pointer]:
+                      - /url: item?id=49577129
+                  - text: "|"
+                  - link "hide" [ref=e445] [cursor=pointer]:
+                    - /url: hide?id=49577129&goto=news
+                  - text: "|"
+                  - link "145 comments" [ref=e446] [cursor=pointer]:
+                    - /url: item?id=49577129
+            - row [ref=e447]
+            - row [ref=e448]:
+              - cell "21." [ref=e449]
+              - cell [ref=e450]:
+                - link "upvote" [ref=e452] [cursor=pointer]:
+                  - /url: vote?id=49591876&how=up&goto=news
+              - cell [ref=e454]:
+                - generic [ref=e455]:
+                  - link "Making a Python interpreter in 1024 bytes" [ref=e456] [cursor=pointer]:
+                    - /url: https://austinhenley.com/blog/python1024.html
+                  - generic [ref=e457]:
+                    - text: (
+                    - link "austinhenley.com" [ref=e458] [cursor=pointer]:
+                      - /url: from?site=austinhenley.com
+                    - text: )
+            - row [ref=e459]:
+              - cell [ref=e460]
+              - cell [ref=e461]:
+                - generic [ref=e462]:
+                  - text: 295 points by
+                  - link "azhenley" [ref=e463] [cursor=pointer]:
+                    - /url: user?id=azhenley
+                  - generic "2026-09-06T23:14:08.000000Z" [ref=e464]:
+                    - link "18 hours ago" [ref=e465] [cursor=pointer]:
+                      - /url: item?id=49591876
+                  - text: "|"
+                  - link "hide" [ref=e466] [cursor=pointer]:
+                    - /url: hide?id=49591876&goto=news
+                  - text: "|"
+                  - link "101 comments" [ref=e467] [cursor=pointer]:
+                    - /url: item?id=49591876
+            - row [ref=e468]
+            - row [ref=e469]:
+              - cell "22." [ref=e470]
+              - cell [ref=e471]:
+                - link "upvote" [ref=e473] [cursor=pointer]:
+                  - /url: vote?id=49540827&how=up&goto=news
+              - cell [ref=e475]:
+                - generic [ref=e476]:
+                  - link "Unified Arabic" [ref=e477] [cursor=pointer]:
+                    - /url: https://worksthatwork.com/6/unified-arabic
+                  - generic [ref=e478]:
+                    - text: (
+                    - link "worksthatwork.com" [ref=e479] [cursor=pointer]:
+                      - /url: from?site=worksthatwork.com
+                    - text: )
+            - row [ref=e480]:
+              - cell [ref=e481]
+              - cell [ref=e482]:
+                - generic [ref=e483]:
+                  - text: 102 points by
+                  - link "spacebuffer" [ref=e484] [cursor=pointer]:
+                    - /url: user?id=spacebuffer
+                  - generic "2026-09-02T19:02:49.000000Z" [ref=e485]:
+                    - link "11 hours ago" [ref=e486] [cursor=pointer]:
+                      - /url: item?id=49540827
+                  - text: "|"
+                  - link "hide" [ref=e487] [cursor=pointer]:
+                    - /url: hide?id=49540827&goto=news
+                  - text: "|"
+                  - link "39 comments" [ref=e488] [cursor=pointer]:
+                    - /url: item?id=49540827
+            - row [ref=e489]
+            - row [ref=e490]:
+              - cell "23." [ref=e491]
+              - cell [ref=e492]:
+                - link "upvote" [ref=e494] [cursor=pointer]:
+                  - /url: vote?id=49590611&how=up&goto=news
+              - cell [ref=e496]:
+                - generic [ref=e497]:
+                  - link "It took a year to ship WebAssembly in Anubis" [ref=e498] [cursor=pointer]:
+                    - /url: https://anubis.techaro.lol/blog/2026/anubis-wasm/
+                  - generic [ref=e499]:
+                    - text: (
+                    - link "techaro.lol" [ref=e500] [cursor=pointer]:
+                      - /url: from?site=techaro.lol
+                    - text: )
+            - row [ref=e501]:
+              - cell [ref=e502]
+              - cell [ref=e503]:
+                - generic [ref=e504]:
+                  - text: 338 points by
+                  - link "xena" [ref=e505] [cursor=pointer]:
+                    - /url: user?id=xena
+                  - generic "2026-09-06T20:32:38.000000Z" [ref=e506]:
+                    - link "21 hours ago" [ref=e507] [cursor=pointer]:
+                      - /url: item?id=49590611
+                  - text: "|"
+                  - link "hide" [ref=e508] [cursor=pointer]:
+                    - /url: hide?id=49590611&goto=news
+                  - text: "|"
+                  - link "170 comments" [ref=e509] [cursor=pointer]:
+                    - /url: item?id=49590611
+            - row [ref=e510]
+            - row [ref=e511]:
+              - cell "24." [ref=e512]
+              - cell [ref=e513]:
+                - link "upvote" [ref=e515] [cursor=pointer]:
+                  - /url: vote?id=49589914&how=up&goto=news
+              - cell [ref=e517]:
+                - 'link "Ask HN: How do you manage skills files?" [ref=e519] [cursor=pointer]':
+                  - /url: item?id=49589914
+            - row [ref=e520]:
+              - cell [ref=e521]
+              - cell [ref=e522]:
+                - generic [ref=e523]:
+                  - text: 259 points by
+                  - link "imadtaieber" [ref=e524] [cursor=pointer]:
+                    - /url: user?id=imadtaieber
+                  - generic "2026-09-06T19:27:10.000000Z" [ref=e525]:
+                    - link "18 hours ago" [ref=e526] [cursor=pointer]:
+                      - /url: item?id=49589914
+                  - text: "|"
+                  - link "hide" [ref=e527] [cursor=pointer]:
+                    - /url: hide?id=49589914&goto=news
+                  - text: "|"
+                  - link "241 comments" [ref=e528] [cursor=pointer]:
+                    - /url: item?id=49589914
+            - row [ref=e529]
+            - row [ref=e530]:
+              - cell "25." [ref=e531]
+              - cell [ref=e532]:
+                - link "upvote" [ref=e534] [cursor=pointer]:
+                  - /url: vote?id=49590512&how=up&goto=news
+              - cell [ref=e536]:
+                - generic [ref=e537]:
+                  - link "GrapheneOS Overhauled Default Apps and Secure Clipboard" [ref=e538] [cursor=pointer]:
+                    - /url: https://grapheneos.social/@GrapheneOS/117225539756835649
+                  - generic [ref=e539]:
+                    - text: (
+                    - link "grapheneos.social" [ref=e540] [cursor=pointer]:
+                      - /url: from?site=grapheneos.social
+                    - text: )
+            - row [ref=e541]:
+              - cell [ref=e542]
+              - cell [ref=e543]:
+                - generic [ref=e544]:
+                  - text: 382 points by
+                  - link "Cider9986" [ref=e545] [cursor=pointer]:
+                    - /url: user?id=Cider9986
+                  - generic "2026-09-06T20:24:00.000000Z" [ref=e546]:
+                    - link "21 hours ago" [ref=e547] [cursor=pointer]:
+                      - /url: item?id=49590512
+                  - text: "|"
+                  - link "hide" [ref=e548] [cursor=pointer]:
+                    - /url: hide?id=49590512&goto=news
+                  - text: "|"
+                  - link "239 comments" [ref=e549] [cursor=pointer]:
+                    - /url: item?id=49590512
+            - row [ref=e550]
+            - row [ref=e551]:
+              - cell "26." [ref=e552]
+              - cell [ref=e553]:
+                - link "upvote" [ref=e555] [cursor=pointer]:
+                  - /url: vote?id=49596629&how=up&goto=news
+              - cell [ref=e557]:
+                - generic [ref=e558]:
+                  - link "Tiny $70 Xteink X3 e-reader" [ref=e559] [cursor=pointer]:
+                    - /url: https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/
+                  - generic [ref=e560]:
+                    - text: (
+                    - link "theatlantic.com" [ref=e561] [cursor=pointer]:
+                      - /url: from?site=theatlantic.com
+                    - text: )
+            - row [ref=e562]:
+              - cell [ref=e563]
+              - cell [ref=e564]:
+                - generic [ref=e565]:
+                  - text: 162 points by
+                  - link "samizdis" [ref=e566] [cursor=pointer]:
+                    - /url: user?id=samizdis
+                  - generic "2026-09-07T10:41:29.000000Z" [ref=e567]:
+                    - link "7 hours ago" [ref=e568] [cursor=pointer]:
+                      - /url: item?id=49596629
+                  - text: "|"
+                  - link "hide" [ref=e569] [cursor=pointer]:
+                    - /url: hide?id=49596629&goto=news
+                  - text: "|"
+                  - link "168 comments" [ref=e570] [cursor=pointer]:
+                    - /url: item?id=49596629
+            - row [ref=e571]
+            - row [ref=e572]:
+              - cell "27." [ref=e573]
+              - cell [ref=e574]:
+                - link "upvote" [ref=e576] [cursor=pointer]:
+                  - /url: vote?id=49550436&how=up&goto=news
+              - cell [ref=e578]:
+                - generic [ref=e579]:
+                  - link "I Connected My Withings Body+ to Home Assistant with an ESP32" [ref=e580] [cursor=pointer]:
+                    - /url: https://didac.dev/blog/i-made-my-withings-scale-sync-to-home-assistant-without-the-cloud
+                  - generic [ref=e581]:
+                    - text: (
+                    - link "didac.dev" [ref=e582] [cursor=pointer]:
+                      - /url: from?site=didac.dev
+                    - text: )
+            - row [ref=e583]:
+              - cell [ref=e584]
+              - cell [ref=e585]:
+                - generic [ref=e586]:
+                  - text: 66 points by
+                  - link "sabatesduran" [ref=e587] [cursor=pointer]:
+                    - /url: user?id=sabatesduran
+                  - generic "2026-09-03T14:33:01.000000Z" [ref=e588]:
+                    - link "8 hours ago" [ref=e589] [cursor=pointer]:
+                      - /url: item?id=49550436
+                  - text: "|"
+                  - link "hide" [ref=e590] [cursor=pointer]:
+                    - /url: hide?id=49550436&goto=news
+                  - text: "|"
+                  - link "20 comments" [ref=e591] [cursor=pointer]:
+                    - /url: item?id=49550436
+            - row [ref=e592]
+            - row [ref=e593]:
+              - cell "28." [ref=e594]
+              - cell [ref=e595]:
+                - link "upvote" [ref=e597] [cursor=pointer]:
+                  - /url: vote?id=49596976&how=up&goto=news
+              - cell [ref=e599]:
+                - link "Apparently CodePen 2.0 sends data to their servers as you type" [ref=e601] [cursor=pointer]:
+                  - /url: item?id=49596976
+            - row [ref=e602]:
+              - cell [ref=e603]
+              - cell [ref=e604]:
+                - generic [ref=e605]:
+                  - text: 94 points by
+                  - link "maxim-fin" [ref=e606] [cursor=pointer]:
+                    - /url: user?id=maxim-fin
+                  - generic "2026-09-07T11:22:40.000000Z" [ref=e607]:
+                    - link "6 hours ago" [ref=e608] [cursor=pointer]:
+                      - /url: item?id=49596976
+                  - text: "|"
+                  - link "hide" [ref=e609] [cursor=pointer]:
+                    - /url: hide?id=49596976&goto=news
+                  - text: "|"
+                  - link "41 comments" [ref=e610] [cursor=pointer]:
+                    - /url: item?id=49596976
+            - row [ref=e611]
+            - row [ref=e612]:
+              - cell "29." [ref=e613]
+              - cell [ref=e614]:
+                - link "upvote" [ref=e616] [cursor=pointer]:
+                  - /url: vote?id=49596797&how=up&goto=news
+              - cell [ref=e618]:
+                - generic [ref=e619]:
+                  - link "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent" [ref=e620] [cursor=pointer]:
+                    - /url: https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/
+                  - generic [ref=e621]:
+                    - text: (
+                    - link "arstechnica.com" [ref=e622] [cursor=pointer]:
+                      - /url: from?site=arstechnica.com
+                    - text: )
+            - row [ref=e623]:
+              - cell [ref=e624]
+              - cell [ref=e625]:
+                - generic [ref=e626]:
+                  - text: 82 points by
+                  - link "joozio" [ref=e627] [cursor=pointer]:
+                    - /url: user?id=joozio
+                  - generic "2026-09-07T11:01:06.000000Z" [ref=e628]:
+                    - link "6 hours ago" [ref=e629] [cursor=pointer]:
+                      - /url: item?id=49596797
+                  - text: "|"
+                  - link "hide" [ref=e630] [cursor=pointer]:
+                    - /url: hide?id=49596797&goto=news
+                  - text: "|"
+                  - link "37 comments" [ref=e631] [cursor=pointer]:
+                    - /url: item?id=49596797
+            - row [ref=e632]
+            - row [ref=e633]:
+              - cell "30." [ref=e634]
+              - cell [ref=e635]:
+                - link "upvote" [ref=e637] [cursor=pointer]:
+                  - /url: vote?id=49591793&how=up&goto=news
+              - cell [ref=e639]:
+                - generic [ref=e640]:
+                  - link "Is mathematics about to enter the conservatory?" [ref=e641] [cursor=pointer]:
+                    - /url: https://mbmccoy.dev/posts/mathematical-conservatory/
+                  - generic [ref=e642]:
+                    - text: (
+                    - link "mbmccoy.dev" [ref=e643] [cursor=pointer]:
+                      - /url: from?site=mbmccoy.dev
+                    - text: )
+            - row [ref=e644]:
+              - cell [ref=e645]
+              - cell [ref=e646]:
+                - generic [ref=e647]:
+                  - text: 113 points by
+                  - link "_alternator_" [ref=e648] [cursor=pointer]:
+                    - /url: user?id=_alternator_
+                  - generic "2026-09-06T23:02:11.000000Z" [ref=e649]:
+                    - link "18 hours ago" [ref=e650] [cursor=pointer]:
+                      - /url: item?id=49591793
+                  - text: "|"
+                  - link "hide" [ref=e651] [cursor=pointer]:
+                    - /url: hide?id=49591793&goto=news
+                  - text: "|"
+                  - link "127 comments" [ref=e652] [cursor=pointer]:
+                    - /url: item?id=49591793
+            - row [ref=e653]
+            - row [ref=e654]
+            - row [ref=e655]:
+              - cell [ref=e656]
+              - cell [ref=e657]:
+                - link "More" [ref=e658] [cursor=pointer]:
+                  - /url: "?p=2"
+    - row [ref=e659]:
+      - cell [ref=e660]:
+        - table [ref=e661]:
+          - rowgroup [ref=e662]:
+            - row [ref=e663]:
+              - cell [ref=e664]
+        - generic [ref=e665]:
+          - generic [ref=e666]:
+            - link "Guidelines" [ref=e667] [cursor=pointer]:
+              - /url: newsguidelines.html
+            - text: "|"
+            - link "FAQ" [ref=e668] [cursor=pointer]:
+              - /url: newsfaq.html
+            - text: "|"
+            - link "Lists" [ref=e669] [cursor=pointer]:
+              - /url: lists
+            - text: "|"
+            - link "API" [ref=e670] [cursor=pointer]:
+              - /url: https://github.com/HackerNews/API
+            - text: "|"
+            - link "Security" [ref=e671] [cursor=pointer]:
+              - /url: security.html
+            - text: "|"
+            - link "Legal" [ref=e672] [cursor=pointer]:
+              - /url: https://www.ycombinator.com/legal/
+            - text: "|"
+            - link "Apply to YC" [ref=e673] [cursor=pointer]:
+              - /url: https://www.ycombinator.com/apply/
+            - text: "|"
+            - link "Contact" [ref=e674] [cursor=pointer]:
+              - /url: mailto:hn@ycombinator.com
+          - generic [ref=e675]:
+            - text: "Search:"
+            - textbox [ref=e676]

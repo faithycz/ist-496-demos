@@ -1,0 +1,17 @@
+[project]
+name = "langchain-core-work"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "cosmiclyfaith", email = "faith.giedrycz@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = []
+
+[project.scripts]
+langchain-core-work = "langchain_core_work:main"
+
+[build-system]
+requires = ["uv_build>=0.12.7,<0.13.0"]
+build-backend = "uv_build"

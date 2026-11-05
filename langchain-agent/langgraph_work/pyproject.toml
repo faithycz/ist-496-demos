@@ -1,0 +1,23 @@
+[project]
+name = "langgraph-work"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "cosmiclyfaith", email = "faith.giedrycz@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "gradio>=6.26.0",
+    "langchain-community>=0.4.2",
+    "langchain-openai>=1.6.0",
+    "langgraph>=1.2.11",
+    "langgraph-checkpoint-sqlite>=3.1.1",
+]
+
+[project.scripts]
+langgraph-work = "langgraph_work:main"
+
+[build-system]
+requires = ["uv_build>=0.12.7,<0.13.0"]
+build-backend = "uv_build"
